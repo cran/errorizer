@@ -1,11 +1,10 @@
-168476e9e2f8f1928de034051377bf37 *DESCRIPTION
+7f52ed4183a1a8ef07d17f4c53829d34 *DESCRIPTION
 ed3f2d76543d45305a7eb5f334d7d4d5 *LICENSE
 82752f49eefb19ddf8149c45d1cf4b9e *NAMESPACE
-9dddf99651927698232a16f4b8d11654 *R/errorize.R
-6e52d7b67c50c360c3dc59cdd7dfc074 *README.md
+18502b4769d4467984ee0fdb1891dd3a *R/errorize.R
 d27042e7d50fc12bade84bc135c60f36 *build/vignette.rds
 b2e1bbe3b25ce627a2a3a4059daebc01 *inst/doc/errorize.R
-35b95ee8aa5ba839d0052b3a28426c55 *inst/doc/errorize.Rmd
-41d3c93ef193f42fb6f3a16c26adbade *inst/doc/errorize.html
-24df5c377dbefa1a21fe782b42ef574c *man/errorize.Rd
-35b95ee8aa5ba839d0052b3a28426c55 *vignettes/errorize.Rmd
+da0aa4a9e5febd7be930d4bcec0d6c62 *inst/doc/errorize.Rmd
+9aae019031ac05520b7cce4cdc31ccf5 *inst/doc/errorize.html
+6347c5940d1e8161fd23c8ff772eed95 *man/errorize.Rd
+da0aa4a9e5febd7be930d4bcec0d6c62 *vignettes/errorize.Rmd
